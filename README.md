@@ -1,12 +1,10 @@
-# Hi, I'm Miguel Ángel 👋
-
-![Profile views](https://gpvc.arturio.dev/devmangel)
+# Hey, Here Miguel 👋
 
 I'm the founder of [ProductosAI](https://app.productos-ai.com/) and CTO of Whaber, an AI super agent on WhatsApp.
 
-- 🔭 Currently working on projects involving **AI and automation**.
-- 🌱 Learning more about **DevOps and scalability**.
-- 👯 Looking to collaborate on **open-source projects**.
+- 🔭 Currently working on PAI and Whaber involving **AI and automation**.
+- 🌱 Learning more about **AI, DevOps and Scalability**.
+- 👯 Looking to collaborate on **AI Open-source Projects**.
 - 💬 Ask me about **Web development, AI, and Startups**.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/devmangel).
 
