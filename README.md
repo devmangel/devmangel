@@ -1,6 +1,6 @@
 # Hey, Here Miguel 👋
 
-I'm the founder of [ProductosAI](https://app.productos-ai.com/) and CTO of Whaber, an AI super agent on WhatsApp.
+I'm the founder of [ProductosAI](https://app.productos-ai.com/) and CTO of [Whaber](https://whaber.ai/), an AI super agent on WhatsApp.
 
 - 🔭 Currently working on PAI and Whaber involving **AI and automation**.
 - 🌱 Learning more about **AI, DevOps and Scalability**.
