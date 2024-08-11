@@ -1,6 +1,6 @@
 # !Hola soy Miguel!
 
-I'm Colombian, living in Middle East and the founder of [ProductosAI](https://app.productos-ai.com/) we are building an AI Agents Factory for Customer Sales and Sales and CTO of [Whaber](https://whaber.ai/), an AI super agent on WhatsApp.
+I'm Colombian, living in Middle East and the founder of [ProductosAI](https://app.productos-ai.com/) we are building The First AI Agents Factory in the World for Customer Services and Sales. Also I'm CTO of [Whaber](https://whaber.ai/), an AI super agent on WhatsApp.
 
 - 🔭 Currently working on PAI and Whaber involving **AI Agents for Customer Service**.
 - 🌱 Learning more about **AI, DevOps and Scalability**.
