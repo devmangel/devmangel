@@ -18,10 +18,6 @@ I'm Colombian, living in Middle East and the founder of [ProductosAI](https://ap
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devmangel&show_icons=true&theme=dark)
-
 ## 📝 Lee nuestro newsletter en español sobre noticias en tecnología
 
 <!-- BLOG-POST-LIST:START -->
