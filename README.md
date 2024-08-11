@@ -4,8 +4,8 @@ I'm Colombian, living in Middle East and the founder of [ProductosAI](https://ap
 
 - 🔭 Currently working on PAI (ProductosAI) and Whaber involving **AI, Web Development, Cloud, Automation**.
 - 🌱 Learning more about **AI, DevOps and Scalability**.
-- 👯 Looking to collaborate on **AI Open-source Project**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/devmangel).
+- 👯 Looking to collaborate on **AI Open-source Projects**.
+- 📫 Reach me out: [LinkedIn](https://linkedin.com/in/devmangel).
 
 ## 🛠️ Technologies & Tools
 
