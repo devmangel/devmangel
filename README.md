@@ -1,11 +1,10 @@
-# Hey, Here Miguel 👋
+# !Hola soy Miguel!
 
-I'm the founder of [ProductosAI](https://app.productos-ai.com/) and CTO of [Whaber](https://whaber.ai/), an AI super agent on WhatsApp.
+I'm Colombian, living in Middle East and the founder of [ProductosAI](https://app.productos-ai.com/) we are building an AI Agents Factory for Customer Sales and Sales and CTO of [Whaber](https://whaber.ai/), an AI super agent on WhatsApp.
 
-- 🔭 Currently working on PAI and Whaber involving **AI and automation**.
+- 🔭 Currently working on PAI and Whaber involving **AI Agents for Customer Service**.
 - 🌱 Learning more about **AI, DevOps and Scalability**.
-- 👯 Looking to collaborate on **AI Open-source Projects**.
-- 💬 Ask me about **Web development, AI, and Startups**.
+- 👯 Looking to collaborate on **AI Open-source Projects and AI Agents**.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/devmangel).
 
 ## 🛠️ Technologies & Tools
@@ -19,12 +18,7 @@ I'm the founder of [ProductosAI](https://app.productos-ai.com/) and CTO of [Whab
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devmangel&show_icons=true&theme=dark)
 
-## 🌐 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/devmangel)
-- [Twitter](https://twitter.com/devmangel)
-
-## 📝 Latest Blog Posts
+## 📝 Lee nuestro newsletter en español sobre noticias en tecnología
 
 <!-- BLOG-POST-LIST:START -->
 - [ChatGPT y sus implicaciones en estrategias de Product-Led Growth](https://productos-ai.beehiiv.com/p/chatgpt-y-sus-implicaciones-en-estrategias-de-productled-growth)
