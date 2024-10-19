@@ -18,9 +18,11 @@ I'm Colombian, living in Middle East and the founder of [ProductosAI](https://ap
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📝 Lee nuestro newsletter en español sobre noticias en tecnología
+## 📝 Lee mis últimos artículos:
 
 <!-- BLOG-POST-LIST:START -->
+- ["Chain-of-Thought": La clave detrás de nuestro proceso de pensamiento](https://productos-ai.com/blog/24/Chain-of-Thought.html)
+- [Guía para Principiantes sobre Chatbots de WhatsApp](https://productos-ai.com/blog/24/chatbot-whatsapp-business.html)
 - [ChatGPT y sus implicaciones en estrategias de Product-Led Growth](https://productos-ai.beehiiv.com/p/chatgpt-y-sus-implicaciones-en-estrategias-de-productled-growth)
 - [¿OpenAI fue Superado? Los agentes de IA estallaran en 2024](https://productos-ai.beehiiv.com/p/openai-fue-superado-los-agentes-de-ia-estallaran-en-2024)
 <!-- BLOG-POST-LIST:END -->
