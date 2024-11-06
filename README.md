@@ -1,13 +1,13 @@
 # !Hey, soy Miguel!
 
-I'm Colombian, living in Middle East and the founder of [ProductosAI](https://app.productos-ai.com/) we are building The First AI Agents Factory in the World for Customer Services and Sales. Also I'm CTO of [Whaber](https://whaber.ai/), an AI super agent on WhatsApp.
+I'm Colombian, living in the Middle East, currently founder of [ProductosAI](https://app.productos-ai.com/) we are building The First AI Agents Factory in the World for Customer Services and Sales. Also part-time CTO of [Whaber](https://whaber.ai/), an AI super agent on WhatsApp.
 
 - 🔭 Currently working on PAI (ProductosAI) and Whaber involving **AI, Web Development, Cloud, Automation**.
 - 🌱 Learning more about **AI, DevOps and Scalability**.
 - 👯 Looking to collaborate on **AI Open-source Projects**.
 - 📫 Reach me out: [LinkedIn](https://linkedin.com/in/devmangel).
 
-## 🛠️ Technologies & Tools
+## 🛠️ Favourites Technologies & Tools
 
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![AzureAI](https://img.shields.io/badge/-AzureAI-black?style=flat-square&logo=microsoftazure)
@@ -18,7 +18,7 @@ I'm Colombian, living in Middle East and the founder of [ProductosAI](https://ap
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📝 Lee mis últimos artículos:
+## 📝 (Spanish Blog) Lee mis últimos artículos:
 
 <!-- BLOG-POST-LIST:START -->
 - ["Chain-of-Thought": La clave detrás de nuestro proceso de pensamiento](https://productos-ai.com/blog/24/Chain-of-Thought.html)
