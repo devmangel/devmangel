@@ -31,12 +31,6 @@
 | AI / LLM        | OpenAI, Ollama, LangChain, LlamaIndex, ElevenLabs, Whisper                  |
 | Messaging/Voice | WhatsApp Business API, SIP trunking, Twilio, Meta Intent API               |
 
-## 🚀 Career Highlights
-- **Scaled dispatch & pricing systems** for Uber LATAM (millions of rides/day).
-- **Launched Rappi Pay** wallet integrations, reducing payment latency by 40 %.
-- **Formalized engineering ladders** and mentored 25+ devs into senior roles.
-- **Speaker & workshop lead** at GitHub Universe, AWS Summit Dubai, JSConf CO.
-
 ## 📈 GitHub Snapshots
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devmangel&show_icons=true&theme=transparent&hide_title=true"/>
